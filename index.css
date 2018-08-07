@@ -1,0 +1,40 @@
+
+nav.navbar {
+    background-color:black;
+    background-image: none;
+    background-repeat: no-repeat;
+    height: 50px;
+    padding-top: 0;
+    
+    
+   }
+   
+   
+   
+   
+   
+   
+a.navbar-brand {
+  
+    font-size: 25px;
+    color: white;
+   }
+
+ul.dropdown-menu{
+    background-color: white
+
+
+}
+a.Home{
+    color:white;
+}
+a.dropdown-toggle{
+    color:white;
+}
+
+a.About{
+    color:white;
+}
+
+ul.nav.navbar-nav.navbar-right a:hover {
+     color: #000000; }
