@@ -3,21 +3,49 @@ nav.navbar {
     background-color:black;
     background-image: none;
     background-repeat: no-repeat;
-    height: 50px;
+    height: 100px;
     padding-top: 0;
     
     
    }
+a.navbar-brand{
+    
+    margin-top:50px;
+}
+img.img-circle{
+    margin-top: 20px;
+    margin-left: 14px;
+}
+
+div.carousel-inner{
+   width:50%;
+   height:auto;
+  
+    margin-left: auto;
+    margin-right: auto;
+    
    
+
+}
+div.carousel.slide{
+    width:1500px;
+    height:auto;
+    margin:0 auto;
+    
+
+}
+
    
-   
-   
+div.bar{
+    bottom:0;
+} 
    
    
 a.navbar-brand {
   
     font-size: 25px;
     color: white;
+    vertical-align: bottom;
    }
 
 ul.dropdown-menu{
@@ -27,14 +55,26 @@ ul.dropdown-menu{
 }
 a.Home{
     color:white;
+    
+    vertical-align: bottom;
 }
 a.dropdown-toggle{
     color:white;
+    vertical-align: bottom;
 }
 
 a.About{
     color:white;
+    vertical-align: bottom;
 }
 
 ul.nav.navbar-nav.navbar-right a:hover {
      color: #000000; }
+body{
+ 
+   
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100%;
+}
