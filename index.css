@@ -1,25 +1,25 @@
 
 nav.navbar {
-    background-color:black;
-    background-image: none;
-    background-repeat: no-repeat;
+    background-color: #001a33 !important;
+    
     height: 100px;
     padding-top: 0;
-    
+   
     
    }
 a.navbar-brand{
-    
-    margin-top:50px;
+    font-size: 40px !important;
+    margin-top: 30px;
 }
 img.img-circle{
-    margin-top: 20px;
+    margin-top: 13px;
     margin-left: 14px;
 }
 
 div.carousel-inner{
-   width:50%;
-   height:auto;
+    margin-top:-20px;
+   width:74%;
+   height:760px;
   
     margin-left: auto;
     margin-right: auto;
@@ -69,12 +69,35 @@ a.About{
 }
 
 ul.nav.navbar-nav.navbar-right a:hover {
-     color: #000000; }
+    color: #000000; 
+    }
+ul.nav.navbar-nav.navbar-right {
+      
+     margin-top:28px;
+     font-size:18px;
+    
+    }
 body{
  
-   
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: 100%;
+    background-size: auto;
+    
+}
+nav.navbar.fixed-bottom{
+
+    margin-top:0px;
+    margin-bottom:0px;
+    height: 90px;
+}
+button.btn.btn-li.btn-lg{
+    margin-left:1620px;
+    margin-right:10px;
+    margin-top:20px;
+}
+button.btn.btn-git.btn-lg{
+    margin-top:20px;
+    margin-right:10px;
+}
+button.btn.btn-email.btn-lg{
+    margin-top:20px;
+    margin-right:10px;
 }
