@@ -25,7 +25,32 @@ img.img-circle{
     width:100px;
     height: 100px;
 }
+img.img-circle:hover{
+    margin-top: 13px;
+    margin-left: 14px;
+    width: 150px !important;
+    height:150px !important;
+}
 
+div.carousel-inner{
+   margin-top:30px;
+   width:70%;
+   height:auto;
+  
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+
+}
+div.carousel.slide{
+    width:900px;
+    height:auto;
+    margin:0 auto;
+    margin-left: auto;
+    margin-right: auto;
+
+}
 
    
 div.bar{
@@ -70,26 +95,13 @@ ul.nav.navbar-nav.navbar-right {
     
     }
 body{
-    background-image: url("blackground_long.png"), url("black.png");
-    background-color: black;
+ 
     background-size: auto;
-    background-repeat: no-repeat;
-   
     
 }
-
-img.thing{
-    width:100px;
-    height:100px; 
-}
-
-div.carousel-caption.d-none.d-md-block{
-
-   
-    margin-bottom: -90px;}
 nav.navbar.fixed-bottom{
 
-    margin-top:20px;
+    margin-top:100px;
     margin-bottom:0px;
     height: 90px;
 }
@@ -123,13 +135,22 @@ button.btn.btn-gplus.btn-lg:hover{
     background-color:red;
 }
 div.carousel-caption.d-none.d-md-block{
+    margin-bottom: 310px;
+    width:100%;
+    
+   
+  
+    
 
    
-    margin-bottom: -90px;}
+    }
 a.links{
-    color:white;
+    color:black;
     font-size: 23px;
-    font-weight: bold;
+    margin-right: 250px;
+   
+    
+    
 }
 
 .navbar-nav li:hover > ul.dropdown-menu {
@@ -148,10 +169,6 @@ a.links{
     
     
 }
-
-embed.center.resume{
-    margin-top:50px;
-  
-    margin-left: 275px;   
+p.description{
+    text-align: center;
 }
-
