@@ -99,7 +99,7 @@ ul.nav.navbar-nav.navbar-right {
     
     }
 body{
-        background-image: url("blackground_long.png"), url("black_background.png");
+        background-image: url("./background/blackground_long.png"), url("./background/black_background.png");
         background-color: black;
         background-size: auto;
         background-repeat: no-repeat;
