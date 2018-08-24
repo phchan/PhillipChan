@@ -33,7 +33,7 @@ img.img-circle:hover{
 }
 
 div.carousel-inner{
-    margin-top:120px;
+   margin-top:120px;
    width:74%;
    height:640px;
   
@@ -44,7 +44,7 @@ div.carousel-inner{
 
 }
 div.carousel.slide{
-    width:1500px;
+    width:80%;
     height:auto;
     margin:0 auto;
     
@@ -97,37 +97,43 @@ body{
  
     background-size: auto;
     
+    
 }
 nav.navbar.fixed-bottom{
 
-    margin-top:0px;
+    
+    margin-top:20px;
     margin-bottom:0px;
-    height: 90px;
+    height: 70px;
 }
+
 button.btn.btn-li.btn-lg{
-    margin-left:1620px;
     margin-right:10px;
-    margin-top:20px;
+    margin-top:10px;
+    
 }
+
 button.btn.btn-li.btn-lg:hover{
-    margin-left:1620px;
-    margin-right:10px;
     margin-top:20px;
+    margin-right:10px;
+    
     background-color:red;
 }
 button.btn.btn-git.btn-lg{
-    margin-top:20px;
+    margin-top:10px;
     margin-right:10px;
 }
 button.btn.btn-git.btn-lg:hover{
     margin-top:20px;
     margin-right:10px;
+   
     background-color:red;
 }
 button.btn.btn-gplus.btn-lg{
-    margin-top:20px;
+    margin-top:10px;
     margin-right:10px;
 }
+
 button.btn.btn-gplus.btn-lg:hover{
     margin-top:20px;
     margin-right:10px;

@@ -48,12 +48,12 @@ div.carousel.slide{
     
    
     
-    width:900px;
+    width:50%;
     height:auto;
     margin:0 auto;
     margin-left: auto;
     margin-right: auto;
-    padding-bottom:30px;
+    padding-bottom:40px;
 }
 
    
@@ -112,21 +112,21 @@ nav.navbar.fixed-bottom{
 
     margin-top:100px;
     margin-bottom:0px;
-    height: 90px;
+    height: 70px;
 }
 button.btn.btn-li.btn-lg{
-    margin-left:1620px;
+    
     margin-right:10px;
-    margin-top:20px;
+    margin-top:10px;
 }
 button.btn.btn-li.btn-lg:hover{
-    margin-left:1620px;
+    
     margin-right:10px;
     margin-top:20px;
     background-color:red;
 }
 button.btn.btn-git.btn-lg{
-    margin-top:20px;
+    margin-top:10px;
     margin-right:10px;
 }
 button.btn.btn-git.btn-lg:hover{
@@ -135,7 +135,7 @@ button.btn.btn-git.btn-lg:hover{
     background-color:red;
 }
 button.btn.btn-gplus.btn-lg{
-    margin-top:20px;
+    margin-top:10px;
     margin-right:10px;
 }
 button.btn.btn-gplus.btn-lg:hover{

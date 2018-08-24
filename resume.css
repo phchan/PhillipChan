@@ -81,21 +81,21 @@ nav.navbar.fixed-bottom{
 
     margin-top:20px;
     margin-bottom:0px;
-    height: 90px;
+    height: 70px;
 }
 button.btn.btn-li.btn-lg{
-    margin-left:1620px;
+    
     margin-right:10px;
-    margin-top:20px;
+    margin-top:10px;
 }
 button.btn.btn-li.btn-lg:hover{
-    margin-left:1620px;
+    
     margin-right:10px;
     margin-top:20px;
     background-color:red;
 }
 button.btn.btn-git.btn-lg{
-    margin-top:20px;
+    margin-top:10px;
     margin-right:10px;
 }
 button.btn.btn-git.btn-lg:hover{
@@ -104,12 +104,12 @@ button.btn.btn-git.btn-lg:hover{
     background-color:red;
 }
 button.btn.btn-gplus.btn-lg{
-    margin-top:20px;
-    margin-right:10px;
+    margin-top:10px;
+    margin-right:5px;
 }
 button.btn.btn-gplus.btn-lg:hover{
     margin-top:20px;
-    margin-right:10px;
+    margin-right:5px;
     background-color:red;
 }
 div.carousel-caption.d-none.d-md-block{
@@ -142,6 +142,8 @@ a.links{
 embed.center.resume{
     margin-top:50px;
   
-    margin-left: 275px;   
+    margin-left: 16%;
+    margin-right: 16%;
+    position: relative;
 }
 
