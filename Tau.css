@@ -12,12 +12,14 @@ a.navbar-brand{
     margin-top: 30px;
     font-weight: bold;
     color:white;
+    font-style: tahoma;
 }
 a.navbar-brand:hover{
     font-size: 40px !important;
     margin-top: 30px;
     font-weight: bold;
     color:white;
+    font-style: tahoma;
 }
 img.img-circle{
     margin-top: 13px;
@@ -67,10 +69,12 @@ a.navbar-brand {
     font-size: 25px;
     color: white;
     vertical-align: bottom;
+    font-style: tahoma;
    }
 
 ul.dropdown-menu{
     background-color: white
+    font-style: tahoma;
 
 
 }
@@ -78,15 +82,18 @@ a.Home{
     color:white;
     
     vertical-align: bottom;
+    font-style: tahoma;
 }
 a.dropdown-toggle{
     color:white;
     vertical-align: bottom;
+    font-style: tahoma;
 }
 
 a.About{
     color:white;
     vertical-align: bottom;
+    font-style: tahoma;
 }
 
 ul.nav.navbar-nav.navbar-right a:hover {
@@ -148,6 +155,7 @@ div.carousel-caption.d-none.d-md-block{
     color:white;
     margin-bottom: -135px !important;
     position: relative;
+    font-style: tahoma;
   
     
 
@@ -159,6 +167,7 @@ a.l{
     margin-right: 230px;
     font-weight: bold;
     text-shadow: 3px 3px #000000;
+    font-style: tahoma;
    
     
     
@@ -181,6 +190,7 @@ a.l{
     
 }
 p.description{
+    font-style: tahoma;
     font-weight: bold;
     color:white;
     margin-top:-10px;
@@ -192,6 +202,7 @@ p.description{
 
 
 h3{
+    font-style: tahoma;
     font-weight: bold;
     color:white !important;
     margin-top:-20px;
@@ -202,6 +213,7 @@ h3{
     text-shadow: 3px 3px #000000;
 }
 ul.duty{
+    font-style: tahoma;
     font-weight: bold;
     color:white !important;
     margin-top:20px;
@@ -220,7 +232,7 @@ a.MWebsite.Center{
     margin-right:300px;
     font-size: 20px !important;
     text-shadow: 3px 3px #000000;
-    
+    font-style: tahoma;
 
 }
 .navbar-nav li:hover > ul.dropdown-menu {

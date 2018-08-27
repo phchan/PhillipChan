@@ -1,0 +1,254 @@
+
+nav.navbar {
+    background-color: #001a33 !important;
+    
+    height: 100px;
+    padding-top: 0;
+   
+    
+   }
+a.navbar-brand{
+    font-size: 40px !important;
+    margin-top: 30px;
+    font-weight: bold;
+    color:white;
+    font-style: tahoma;
+}
+a.navbar-brand:hover{
+    font-size: 40px !important;
+    margin-top: 30px;
+    font-weight: bold;
+    color:white;
+    font-style: tahoma;
+}
+img.img-circle{
+    margin-top: 13px;
+    margin-left: 14px;
+    width:100px;
+    height: 100px;
+}
+img.img-circle:hover{
+    margin-top: 13px;
+    margin-left: 14px;
+    width: 150px !important;
+    height:150px !important;
+}
+
+div.carousel-inner{
+    margin-top:30px; 
+   width:70%;
+   height:500px;
+  
+    margin-left: auto;
+    margin-right: auto;
+   
+    
+   
+
+}
+div.carousel.slide{
+    
+   
+    
+    width:50%;
+    height:auto;
+    margin:0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom:30px;
+}
+
+   
+div.bar{
+    bottom:0;
+} 
+   
+   
+a.navbar-brand {
+  
+    font-size: 25px;
+    color: white;
+    vertical-align: bottom;
+    font-style: tahoma;
+   }
+
+ul.dropdown-menu{
+    background-color: white
+    font-style: tahoma;
+
+
+}
+a.Home{
+    color:white;
+    font-style: tahoma;
+    vertical-align: bottom;
+}
+a.dropdown-toggle{
+    color:white;
+    vertical-align: bottom;
+    font-style: tahoma;
+}
+
+a.About{
+    color:white;
+    vertical-align: bottom;
+    font-style: tahoma;
+}
+
+ul.nav.navbar-nav.navbar-right a:hover {
+    color: #000000; 
+    }
+ul.nav.navbar-nav.navbar-right {
+      
+     margin-top:28px;
+     font-size:18px;
+     font-style: tahoma;
+    
+    }
+body{
+        background-image: url("./background/blackground_long.png"), url("./background/black_background.png");
+        background-color: black;
+        background-size: auto;
+        background-repeat: no-repeat;
+       
+        
+        
+}
+
+nav.navbar.fixed-bottom{
+
+    margin-top:20px;
+    margin-bottom:0px;
+    height: 70px;
+}
+button.btn.btn-li.btn-lg{
+    
+    margin-right:10px;
+    margin-top:10px;
+}
+button.btn.btn-li.btn-lg:hover{
+   
+    margin-right:10px;
+    margin-top:20px;
+    background-color:red;
+}
+button.btn.btn-git.btn-lg{
+    margin-top:10px;
+    margin-right:10px;
+}
+button.btn.btn-git.btn-lg:hover{
+    margin-top:20px;
+    margin-right:10px;
+    background-color:red;
+}
+button.btn.btn-gplus.btn-lg{
+    margin-top:10px;
+    margin-right:10px;
+}
+button.btn.btn-gplus.btn-lg:hover{
+    margin-top:20px;
+    margin-right:10px;
+    background-color:red;
+}
+div.carousel-caption.d-none.d-md-block{
+    
+   
+    color:white;
+    margin-bottom: -135px !important;
+    position: relative;
+    font-style: tahoma;
+  
+    
+
+   
+    }
+a.l{
+    color:white;
+    font-size: 40px;
+    margin-right: 230px;
+    font-weight: bold;
+    text-shadow: 3px 3px #000000;
+    font-style: tahoma;
+   
+    
+    
+}
+
+.navbar-nav li:hover > ul.dropdown-menu {
+    display:block;
+    
+    
+}
+.dropdown-submenu {
+    position:relative;
+    
+}
+.dropdown-submenu>.dropdown-menu {
+    top:0;
+    margin-top:-6px;
+    margin-right:3000px;
+    
+    
+}
+p.description{
+    font-weight: bold;
+    color:white;
+    margin-top:-10px;
+    margin-left:300px;
+    margin-right:300px;
+    font-size: 20px;
+    text-shadow: 3px 3px #000000;
+    font-style: tahoma;
+}
+
+
+h3{
+    font-weight: bold;
+    color:white !important;
+    margin-top:-20px;
+    margin-left:300px;
+    margin-right:300px;
+    font-size: 30px !important;
+    text-decoration: underline;
+    text-shadow: 3px 3px #000000;
+    font-style: tahoma;
+}
+ul.duty{
+    font-weight: bold;
+    color:white !important;
+    margin-top:20px;
+    margin-left:300px;
+    margin-right:300px;
+    font-size: 20px !important;
+    text-shadow: 3px 3px #000000;
+    font-style: tahoma;
+
+}
+a.MWebsite.Center{
+    font-weight: bold;
+    color:white !important;
+    padding-top:90px !important;
+    margin-left:300px;
+    margin-right:300px;
+    font-size: 20px !important;
+    text-shadow: 3px 3px #000000;
+    font-style: tahoma;
+
+}
+
+.navbar-nav li:hover > ul.dropdown-menu {
+    display:block;
+    
+    
+}
+.dropdown-submenu {
+    position:relative;
+    
+}
+.dropdown-submenu>.dropdown-menu {
+    top:0;
+    margin-top:-6px;
+    margin-right:180px;
+    
+    
+}
