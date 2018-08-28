@@ -27,15 +27,10 @@ a.navbar-brand:hover{
 img.img-circle{
     margin-top: 13px;
     margin-left: 14px;
-    width: 30%;
-    height: auto;
+    width:120px !important;
+    height: 120px !important;
 }
-img.img-circle:hover{
-    margin-top: 13px;
-    margin-left: 14px;
-    width: 150px !important;
-    max-height:150px !important;
-}
+
 
 
 
@@ -55,22 +50,25 @@ ul.dropdown-menu{
 }
 a.Home{
     color:white;
-    font-weight: bold;
+    
     vertical-align: bottom;
     font-style: tahoma;
+    font-size: 20px;
 }
 a.dropdown-toggle{
     color:white;
     vertical-align: bottom;
     font-style: tahoma;
-    font-weight: bold;
+    
+    font-size: 20px;
+    
 }
 
 a.About{
     color:white;
     vertical-align: bottom;
     font-style: tahoma;
-    font-weight: bold;
+    font-size: 20px;
 }
 
 ul.nav.navbar-nav.navbar-right a:hover {
