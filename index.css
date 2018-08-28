@@ -8,13 +8,13 @@ nav.navbar {
     
    }
 a.navbar-brand{
-    font-size: 40px !important;
+    font-size: 30px !important;
     margin-top: 30px;
     font-weight: bold;
     color:white;
 }
 a.navbar-brand:hover{
-    font-size: 40px !important;
+    font-size: 30px !important;
     margin-top: 30px;
     font-weight: bold;
     color:white;
@@ -95,7 +95,8 @@ ul.nav.navbar-nav.navbar-right {
     }
 body{
  
-    background-size: auto;
+    background-size: cover !important;
+
     
     
 }
