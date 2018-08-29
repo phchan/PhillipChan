@@ -85,9 +85,12 @@ ul.nav.navbar-nav.navbar-right {
 
 nav.navbar.fixed-bottom{
 
-    margin-top:20px;
-    margin-bottom:0px;
-    height: 70px;
+
+    bottom: 0px !important;
+    width: 100%; 
+    height: auto;
+    margin-bottom: 0px;
+    position: fixed;
 }
 button.btn.btn-li.btn-lg{
     
@@ -146,6 +149,9 @@ p.description{
     font-size: 22px;
     text-shadow: 1px 1px black;
     font-style: tahoma;
+    padding-bottom: 30vw;
+    
+     
     
 }
 
@@ -262,7 +268,7 @@ img.rounded{
   left:0;
   right:0;
   bottom:0;
-  background-size: cover;
+  background-size:cover;
   display:block;
   }
   
