@@ -33,7 +33,7 @@ img.img-circle:hover{
 }
 
 div.carousel-inner{
-   margin-top:8vw;
+   margin-top:9vw;
    width:76%;
    height:auto;
   
@@ -55,6 +55,7 @@ div.carousel.slide{
     width:70%;
     height:auto;
     margin:0 auto;
+    
     
     
     
@@ -152,14 +153,18 @@ button.btn.btn-gplus.btn-lg:hover{
 div.carousel-caption.d-none.d-md-block{
 
    
-    margin-bottom: -6.5vw;}
+    margin-bottom: -6.5vw;
+  
+    }
 a.links{
     color:white;
     font-size: 20px;
     font-weight: bold;
     font-size: 1.08vw;
     margin-top:50vw;
+
 }
+
 
 .navbar-nav li:hover > ul.dropdown-menu {
     display:block;
@@ -178,7 +183,8 @@ a.links{
     
 }
 h1{
-    padding-bottom:20vw;
+    padding-bottom:10vw;
+    color: transparent;
 }
 @keyframes move-twink-back {
     from {background-position:0 0;}
