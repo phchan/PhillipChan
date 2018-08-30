@@ -206,8 +206,8 @@ p.description{
   
     color:white;
     margin-top:-10px;
-    margin-left:300px;
-    margin-right:300px;
+    margin-left:15%;
+    margin-right:15%;
     font-size: 22px;
     text-shadow: 1px 1px black;
     font-style: tahoma;
@@ -219,8 +219,8 @@ h3{
     font-weight: bold !important;
     color:white !important;
     margin-top:-20px;
-    margin-left:300px;
-    margin-right:300px;
+    margin-left:15%;
+    margin-right:15%;
     
     text-decoration: underline;
     text-shadow: 1px 1px #000000;
@@ -232,8 +232,8 @@ ul.duty{
    
     color:white !important;
     margin-top:20px;
-    margin-left:300px;
-    margin-right:300px;
+    margin-left:15%;
+    margin-right:15%;
     font-size: 22px;
     
     text-shadow: 1px 1px #000000;
@@ -245,8 +245,9 @@ a.MWebsite.Center{
    
     color:white !important;
     padding-top:90px !important;
-    margin-left:300px;
-    margin-right:300px;
+    margin-left:15%;
+    margin-right:15%;
+    
 
     text-shadow: 1px 1px #000000;
     font-style: tahoma;
@@ -255,7 +256,6 @@ a.MWebsite.Center{
     
 
 }
-
 .navbar-nav li:hover > ul.dropdown-menu {
     display:block;
     
@@ -274,7 +274,9 @@ a.MWebsite.Center{
 }
 
 
-  
+h1{
+    padding-bottom:10vw;
+}
   
   @keyframes move-twink-back {
     from {background-position:0 0;}

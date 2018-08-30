@@ -113,17 +113,22 @@ ul.nav.navbar-nav.navbar-right {
 
 nav.navbar.fixed-bottom{
 
-    margin-top:20px;
-    margin-bottom:0px;
+    bottom: 0px !important;
+    width: 100%; 
     height: 70px;
+    margin-bottom: 0px;
+    position: fixed;
+    
+    
 }
+
 button.btn.btn-li.btn-lg{
     
     margin-right:10px;
     margin-top:10px;
 }
 button.btn.btn-li.btn-lg:hover{
-   
+    
     margin-right:10px;
     margin-top:20px;
     background-color:red;
@@ -205,8 +210,8 @@ p.description{
   
     color:white;
     margin-top:-10px;
-    margin-left:300px;
-    margin-right:300px;
+    margin-left:15%;
+    margin-right:15%;
     font-size: 22px;
     text-shadow: 1px 1px black;
     font-style: tahoma;
@@ -218,8 +223,8 @@ h3{
     font-weight: bold !important;
     color:white !important;
     margin-top:-20px;
-    margin-left:300px;
-    margin-right:300px;
+    margin-left:15%;
+    margin-right:15%;
     
     text-decoration: underline;
     text-shadow: 1px 1px #000000;
@@ -231,8 +236,8 @@ ul.duty{
    
     color:white !important;
     margin-top:20px;
-    margin-left:300px;
-    margin-right:300px;
+    margin-left:15%;
+    margin-right:15%;
     font-size: 22px;
     
     text-shadow: 1px 1px #000000;
@@ -244,8 +249,9 @@ a.MWebsite.Center{
    
     color:white !important;
     padding-top:90px !important;
-    margin-left:300px;
-    margin-right:300px;
+    margin-left:15%;
+    margin-right:15%;
+    
 
     text-shadow: 1px 1px #000000;
     font-style: tahoma;
@@ -270,6 +276,9 @@ a.MWebsite.Center{
     margin-right:180px;
     
     
+}
+h1{
+    padding-bottom:10vw;
 }
 
 
