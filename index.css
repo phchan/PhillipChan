@@ -33,13 +33,16 @@ img.img-circle:hover{
 }
 
 div.carousel-inner{
-   margin-top:120px;
-   width:74%;
+   margin-top:8vw;
+   width:76%;
    height:auto;
   
     margin-left: auto;
     margin-right: auto;
-    padding-bottom:  30vh;
+    padding-bottom: 8vw;
+   
+  
+    
  
    
     
@@ -49,9 +52,11 @@ div.carousel-inner{
 }
 
 div.carousel.slide{
-    width:60%;
+    width:65%;
     height:auto;
     margin:0 auto;
+    
+    
     
 
    
@@ -101,69 +106,60 @@ ul.nav.navbar-nav.navbar-right {
      font-size:18px;
     
     }
-body{
- 
-    background-size: cover !important;
 
-    
-    
-}
 nav.navbar.fixed-bottom{
 
-    
-    position: fixed;
     bottom: 0px !important;
     width: 100%; 
-    height: 8%;
+    height: 70px;
     margin-bottom: 0px;
+    position: fixed;
     
     
 }
 
 button.btn.btn-li.btn-lg{
-    margin-right:10px;
-    margin-top:23%;
-    margin-bottom:23%;
     
+    margin-right:10px;
+    margin-top:10px;
 }
-
 button.btn.btn-li.btn-lg:hover{
-    margin-top:20px;
+   
     margin-right:10px;
-    
+    margin-top:20px;
     background-color:red;
 }
 button.btn.btn-git.btn-lg{
-    margin-top:23%;
+    margin-top:10px;
     margin-right:10px;
-    margin-bottom:23%;
 }
 button.btn.btn-git.btn-lg:hover{
     margin-top:20px;
     margin-right:10px;
-   
     background-color:red;
 }
 button.btn.btn-gplus.btn-lg{
-    margin-top:23%;
+    margin-top:10px;
     margin-right:10px;
-    margin-bottom:23%;
 }
-
 button.btn.btn-gplus.btn-lg:hover{
     margin-top:20px;
     margin-right:10px;
     background-color:red;
 }
+
+
 div.carousel-caption.d-none.d-md-block{
 
    
-    margin-bottom: -10%;}
+    margin-bottom: -6.5vw;}
 a.links{
     color:white;
-    font-size: 23px;
+    font-size: 20px;
     font-weight: bold;
-    font-size: 1vw;}
+    font-size: 1.08vw;
+    margin-top:50vw;
+}
 
 .navbar-nav li:hover > ul.dropdown-menu {
     display:block;
@@ -181,7 +177,9 @@ a.links{
     
     
 }
-
+h1{
+    padding-bottom:20vw;
+}
 @keyframes move-twink-back {
     from {background-position:0 0;}
     to {background-position:-10000px 5000px;}
