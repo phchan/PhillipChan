@@ -39,7 +39,7 @@ div.carousel-inner{
   
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: 15vw;
+    padding-bottom: 8vw;
    
   
     
@@ -55,6 +55,7 @@ div.carousel.slide{
     width:70%;
     height:auto;
     margin:0 auto;
+    
     
     
     
@@ -152,7 +153,8 @@ button.btn.btn-gplus.btn-lg:hover{
 div.carousel-caption.d-none.d-md-block{
 
    
-    margin-bottom: -6.5vw;}
+    margin-bottom: -6.7vw;
+    }
 a.links{
     color:white;
     font-size: 20px;
@@ -178,7 +180,7 @@ a.links{
     
 }
 h1{
-    padding-bottom:20vw;
+    padding-bottom:25vh;
 }
 @keyframes move-twink-back {
     from {background-position:0 0;}
