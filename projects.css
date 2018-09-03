@@ -8,65 +8,122 @@ nav.navbar {
     
    }
 a.navbar-brand{
-    font-size: 40px !important;
+    font-size: 35px;
+  
     margin-top: 30px;
     font-weight: bold;
     color:white;
+    font-style: tahoma;
 }
 a.navbar-brand:hover{
-    font-size: 40px !important;
+    font-size: 35px !important;
+    
     margin-top: 30px;
     font-weight: bold;
     color:white;
+    font-style: tahoma;
 }
+
 img.img-circle{
     margin-top: 13px;
     margin-left: 14px;
-    width:100px;
-    height: 100px;
+    width: 130px;
+    height: 130px;
+}
+img.img-circle:hover{
+    margin-top: 13px;
+    margin-left: 14px;
+    width: 150px !important;
+    height:150px !important;
 }
 
 
-img.progress{
+div.carousel-inner{
+   margin-top:40px; 
+   width:60%;
+   height:auto;
+   padding-bottom: 80px;
+   font-size: 1.8vw;
+  
+    margin-left: auto;
+    margin-right: auto;
+    
    
-    width: 40%;
-    height: auto;
-    margin-top: 70px;
-    position: static; 
-    margin-left:25%;
-}
+    
+   
 
+}
+div.carousel-inner.new{
+    margin-top:40px; 
+    width:70%;
+    height:auto;
+    padding-bottom: 80px;
+    font-size: 1.8vw;
+   
+     margin-left: auto;
+     margin-right: auto;
+     
+    
+     
+    
+ 
+ }
+div.carousel.slide{
+    
+   
+    
+    width:45%;
+    height:auto;
+    margin:0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom:60px;
+    position:relative;
+}
+div.carousel.slide.new{
+    
+   
+    
+    width:80%;
+    height:auto;
+    margin:0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom:60px;
+    position:relative;
+}
    
 div.bar{
     bottom:0;
 } 
    
    
-a.navbar-brand {
-  
-    font-size: 25px;
-    color: white;
-    vertical-align: bottom;
-   }
+
 
 ul.dropdown-menu{
-    background-color: white
+    background-color: white;
+    font-style: tahoma;
 
 
 }
 a.Home{
     color:white;
-    
+    font-size: 20px;
     vertical-align: bottom;
+    font-style: tahoma;
 }
 a.dropdown-toggle{
     color:white;
     vertical-align: bottom;
+    font-style: tahoma;
+    font-size: 20px;
 }
 
 a.About{
     color:white;
     vertical-align: bottom;
+    font-style: tahoma;
+    font-size: 20px;
 }
 
 ul.nav.navbar-nav.navbar-right a:hover {
@@ -78,30 +135,23 @@ ul.nav.navbar-nav.navbar-right {
      font-size:18px;
     
     }
-body{
- 
-    background-size: auto;
-    
-    
-}
+
+
 nav.navbar.fixed-bottom{
 
-    
-    margin-top:12.7%;
-    margin-bottom:0px !important;
+    margin-top:20px;
+    margin-bottom:0px;
     height: 70px;
 }
-
 button.btn.btn-li.btn-lg{
+    
     margin-right:10px;
     margin-top:10px;
-    
 }
-
 button.btn.btn-li.btn-lg:hover{
-    margin-top:20px;
+   
     margin-right:10px;
-    
+    margin-top:20px;
     background-color:red;
 }
 button.btn.btn-git.btn-lg{
@@ -111,27 +161,140 @@ button.btn.btn-git.btn-lg{
 button.btn.btn-git.btn-lg:hover{
     margin-top:20px;
     margin-right:10px;
-   
     background-color:red;
 }
 button.btn.btn-gplus.btn-lg{
     margin-top:10px;
     margin-right:10px;
 }
-
 button.btn.btn-gplus.btn-lg:hover{
     margin-top:20px;
     margin-right:10px;
     background-color:red;
 }
 div.carousel-caption.d-none.d-md-block{
+    
+   
+    color:white;
+    margin-bottom: -135px !important;
+    position: relative;
+    font-style: tahoma;
+    margin-bottom: 10px; 
+    
 
    
-    margin-bottom: -90px;}
-a.links{
+    }
+a.l{
+    
     color:white;
-    font-size: 23px;
-    font-weight: bold;
+    font-size: 40px; 
+    font-size: 2vw;
+    margin-right: 40%;
+  
+    text-shadow: 1px 1px #000000;
+    font-style: tahoma;
+   
+    position:relative; 
+    
+}
+a.l:hover{
+    color:white;
+    font-size: 40px; 
+    font-size: 2vw;
+    margin-right: 40%;
+  
+    text-shadow: 1px 1px #000000;
+    font-style: tahoma;
+   
+    position:relative; 
+    font-weight: normal !important;
+}
+
+
+.navbar-nav li:hover > ul.dropdown-menu {
+    display:block;
+    
+    
+}
+.dropdown-submenu {
+    position:relative;
+    
+}
+.dropdown-submenu>.dropdown-menu {
+    top:0;
+    margin-top:-6px;
+    margin-right:3000px;
+    
+    
+}
+p.description{
+    position:relative; 
+  
+    color:white;
+    margin-top:-10px;
+    margin-left:15%;
+    margin-right:15%;
+    font-size: 22px;
+    text-shadow: 1px 1px black;
+    font-style: tahoma;
+    
+}
+
+
+h3{
+    font-weight: bold !important;
+    color:white !important;
+    margin-top:5vw !important;
+    margin-left:15%;
+    margin-right:15%;
+    
+    text-decoration: underline;
+    text-shadow: 1px 1px #000000;
+    font-style: tahoma;
+    font-size: 35px!important;
+    
+}
+ul.duty{
+   
+    color:white !important;
+    margin-top:20px;
+    margin-left:15%;
+    margin-right:15%;
+    font-size: 22px;
+    
+    text-shadow: 1px 1px #000000;
+    font-style: tahoma;
+    
+
+}
+a.MWebsite.Center{
+   
+    color:white !important;
+    padding-top:90px !important;
+    margin-left:15%;
+    margin-right:15%;
+    
+
+    text-shadow: 1px 1px #000000;
+    font-style: tahoma;
+    
+    font-size: 22px;
+    
+
+}
+
+h1.title{
+    font-weight: bold !important;
+    color:white !important;
+    margin-top:5vw;
+    margin-left:46%;
+ 
+    
+    text-decoration: underline;
+    text-shadow: 1px 1px #000000;
+    font-style: tahoma;
+    font-size: 40px;
+
 }
 
 .navbar-nav li:hover > ul.dropdown-menu {
@@ -150,3 +313,68 @@ a.links{
     
     
 }
+
+
+  
+  
+  @keyframes move-twink-back {
+    from {background-position:0 0;}
+    to {background-position:-10000px 5000px;}
+  }
+  @-webkit-keyframes move-twink-back {
+    from {background-position:0 0;}
+    to {background-position:-10000px 5000px;}
+  }
+  @-moz-keyframes move-twink-back {
+    from {background-position:0 0;}
+    to {background-position:-10000px 5000px;}
+  }
+  @-ms-keyframes move-twink-back {
+    from {background-position:0 0;}
+    to {background-position:-10000px 5000px;}
+  }
+  
+  @keyframes move-clouds-back {
+    from {background-position:0 0;}
+    to {background-position:10000px 0;}
+  }
+  @-webkit-keyframes move-clouds-back {
+    from {background-position:0 0;}
+    to {background-position:10000px 0;}
+  }
+  @-moz-keyframes move-clouds-back {
+    from {background-position:0 0;}
+    to {background-position:10000px 0;}
+  }
+  @-ms-keyframes move-clouds-back {
+    from {background-position: 0;}
+    to {background-position:10000px 0;}
+  }
+  
+  .stars, .twinkling {
+  
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  background-size: cover;
+  display:block;
+  }
+  
+  .stars {
+  background:#000 url(http://www.script-tutorials.com/demos/360/images/stars.png) repeat top center;
+  z-index:0;
+  }
+  
+  .twinkling{
+  background:transparent url(http://www.script-tutorials.com/demos/360/images/twinkling.png) repeat top center;
+  z-index:1;
+  
+  -moz-animation:move-twink-back 200s linear infinite;
+  -ms-animation:move-twink-back 200s linear infinite;
+  -o-animation:move-twink-back 200s linear infinite;
+  -webkit-animation:move-twink-back 200s linear infinite;
+  animation:move-twink-back 200s linear infinite;
+  }
+  
+  

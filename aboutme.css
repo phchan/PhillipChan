@@ -85,12 +85,13 @@ ul.nav.navbar-nav.navbar-right {
 
 nav.navbar.fixed-bottom{
 
-
     bottom: 0px !important;
     width: 100%; 
-    height: auto;
+    height: 70px;
     margin-bottom: 0px;
     position: fixed;
+    
+    
 }
 button.btn.btn-li.btn-lg{
     
@@ -121,8 +122,6 @@ button.btn.btn-gplus.btn-lg:hover{
     margin-right:10px;
     background-color:red;
 }
-
-
 .navbar-nav li:hover > ul.dropdown-menu {
     display:block;
     
@@ -144,8 +143,8 @@ p.description{
   
     color:white;
     margin-top:-10px;
-    margin-left:300px;
-    margin-right:300px;
+    margin-left:15%;
+    margin-right:15%;
     font-size: 22px;
     text-shadow: 1px 1px black;
     font-style: tahoma;

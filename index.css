@@ -58,7 +58,6 @@ div.carousel.slide{
     
     
     
-    
 
    
     
@@ -153,8 +152,7 @@ button.btn.btn-gplus.btn-lg:hover{
 div.carousel-caption.d-none.d-md-block{
 
    
-    margin-bottom: -6.7vw;
-    }
+    margin-bottom: -6.5vw;}
 a.links{
     color:white;
     font-size: 20px;
@@ -180,7 +178,7 @@ a.links{
     
 }
 h1{
-    padding-bottom:100vw;
+    padding-bottom:7vw;
 }
 @keyframes move-twink-back {
     from {background-position:0 0;}
